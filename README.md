@@ -28,7 +28,7 @@ A responsive landing page for **Focal**, a fictional focus-timer and deep-work t
 Open `index.html` in any browser — no build step or dependencies required.
 
 Live version: https://github.com/laibapafaftab-debug
-
+ website link;  https://laibapafaftab-debug.github.io/Web-Development-Responsive-Landing-Page/
 ## Notes
 
 This is a fictional product built solely for this internship exercise.
