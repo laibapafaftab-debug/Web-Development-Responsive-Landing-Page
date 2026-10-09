@@ -44,3 +44,20 @@ Open `index.html` in any browser. No build step or dependencies required.
 ## Notes
 
 This is a fictional product built solely for this internship exercise.
+
+##Screenshort
+
+**Desktop**
+
+<img width="1563" height="762" alt="Screenshot 2026-10-09 140823" src="https://github.com/user-attachments/assets/b7b432f8-14a2-4719-8af5-842fa8eb9000" />
+
+**Tablet**
+
+<img width="1005" height="711" alt="Screenshot 2026-10-09 140933" src="https://github.com/user-attachments/assets/c300f39c-1a89-432f-bb73-99a1bba6ba8b" />
+
+**Mobile**
+
+<img width="540" height="1125" alt="WhatsApp Image 2026-10-09 at 2 00 15 AM (1)" src="https://github.com/user-attachments/assets/9ae95e91-8f90-4ddb-99e6-12256226b272" />
+
+
+
